@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '8944'
     url: http://www.gutenberg.org/2009/agents/8944
 description: This volume covers A.D. 1775-1799.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32690#The-Great-Events-by-Famous-Historians-Volume-14
 gutenberg_issued: '2010-06-04'
 gutenberg_type: Text
 identifiers:
